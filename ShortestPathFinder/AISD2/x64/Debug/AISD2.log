@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\MyString.h(47,1): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\MyString.h(125,1): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\HashTable.h(17,2): warning C4091: "typedef ": zignorowano na lewo od "Sasiad" podczas gdy brak deklaracji zmiennej
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\HashTable.h(26,2): warning C4091: "typedef ": zignorowano na lewo od "Miasto" podczas gdy brak deklaracji zmiennej
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\HashTable.h(35,2): warning C4091: "typedef ": zignorowano na lewo od "Node" podczas gdy brak deklaracji zmiennej
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\MinHeap.h(10,2): warning C4091: "typedef ": zignorowano na lewo od "HeapNode" podczas gdy brak deklaracji zmiennej
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\main.cpp(274,7): warning C4101: "connectionFound": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Tomasz\Desktop\AiSD\AISD2\AISD2\main.cpp(273,18): warning C4101: "node": lokalna zmienna, do której nie istnieje odwołanie
+  AISD2.vcxproj -> C:\Users\Tomasz\Desktop\AiSD\AISD2\x64\Debug\AISD2.exe
