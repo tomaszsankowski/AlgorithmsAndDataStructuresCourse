@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\main.cpp(383,10): warning C4101: "sectionIndex": lokalna zmienna, do której nie istnieje odwołanie
+  MyList.cpp
+  MyString.cpp
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\MyString.cpp(43,23): warning C4267: "return": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\MyString.cpp(69,7): warning C4101: "c": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\MyString.cpp(127,27): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\MyString.cpp(139,32): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\Tomasz\Desktop\AiSD\CSS\parserCSS\MyString.cpp(157,42): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Node.cpp
+  Generowanie kodu...
+  parserCSS.vcxproj -> C:\Users\Tomasz\Desktop\AiSD\CSS\x64\Debug\parserCSS.exe
